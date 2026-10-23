@@ -174,7 +174,7 @@
 
 **微信扫码，直接沟通需求**
 
-![微信二维码](https://gitee.com/zhouqichao_dev/customization/raw/master/801ef21576f6157a92e7f087c157ca8c.jpg)
+<img width="636" height="631" alt="微信图片_20260914161626_84_27" src="https://github.com/user-attachments/assets/98b95678-6170-4f04-b6c3-5b7739d81c03" />
 
 </div>
 
